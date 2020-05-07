@@ -1,0 +1,14 @@
+move a repo to the local machine:
+git clone (insert git repo url)
+
+see changes in the repo:
+git status 
+
+stage all staged files:
+git add . 
+
+Makes all staged files part of branch 
+git commit -m "Adds files to branch"
+
+move the changed files to the server: 
+git push 
